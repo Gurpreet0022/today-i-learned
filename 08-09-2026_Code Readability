@@ -1,0 +1,10 @@
+# Code Readability 
+
+**Date**: 08-09-2026
+
+**While making pipelines , things to keep in mind:**
+1. Always put credentials in .env file or make them hash code.
+2. Never put .env file to github.
+3. Make the code reusable, write it in a way so that we can add other functionalities in code with just very few changes.
+4. Use the function names, variable names relevant to your work.
+5. When writing a code as a part of learning or college project work , think from a production point of view. 
