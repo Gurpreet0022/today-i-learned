@@ -1,0 +1,2 @@
+Update the code for universal checks and inputs as discussed, code needs to be in generic approach so that any capability can be added. 
+Always write in a way so that we can be add new things with minimal changes.
